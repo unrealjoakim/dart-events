@@ -1,0 +1,30 @@
+[
+    {
+        "namn": "Swedish Open",
+        "datum": "2025-08-15",
+        "tid": "10:00",
+        "plats": "Sverige",
+        "stad": "Helsingborg",
+        "land": "Sverige",
+        "kategori": "Nationell",
+        "arrangör": "Svenska Dartförbundet",
+        "beskrivning": "En av Sveriges största öppna dartturneringar.",
+        "anmälningsavgift": "200 SEK",
+        "bild": "",
+        "länk": "https://dart.se"
+    },
+    {
+        "namn": "World Cup of Darts",
+        "datum": "2026-06-11",
+        "tid": "12:00",
+        "plats": "Frankfurt",
+        "stad": "Frankfurt",
+        "land": "Tyskland",
+        "kategori": "PDC",
+        "arrangör": "Professional Darts Corporation",
+        "beskrivning": "Landslagsturnering med världens bästa spelare.",
+        "anmälningsavgift": "N/A",
+        "bild": "",
+        "länk": "https://pdc.tv"
+    }
+]
